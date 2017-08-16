@@ -10,6 +10,8 @@ namespace ClassTest
     {
         static void Main(string[] args)
         {
+            Vechile car = new Vechile();
+            Console.WriteLine(car.ToString());
         }
     }
 }
