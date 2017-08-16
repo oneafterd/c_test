@@ -1,0 +1,6 @@
+C:\c_test\ClassTest\ClassTest\bin\Debug\ClassTest.exe.config
+C:\c_test\ClassTest\ClassTest\bin\Debug\ClassTest.exe
+C:\c_test\ClassTest\ClassTest\bin\Debug\ClassTest.pdb
+C:\c_test\ClassTest\ClassTest\obj\Debug\ClassTest.csprojResolveAssemblyReference.cache
+C:\c_test\ClassTest\ClassTest\obj\Debug\ClassTest.exe
+C:\c_test\ClassTest\ClassTest\obj\Debug\ClassTest.pdb
