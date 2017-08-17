@@ -8,5 +8,9 @@ namespace ClassTest
 {
     class Vechile
     {
+        public void PressHorn()
+        {
+            Console.WriteLine("TootToot!");
+        }
     }
 }
