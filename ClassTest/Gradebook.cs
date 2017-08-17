@@ -4,13 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassTest
+namespace Grades
 {
-    class Vechile
+    class Gradebook
     {
-        public void PressHorn()
+        public void AddGrade(float grade)
         {
-            Console.WriteLine("TootToot!");
+            grades.Add(grade);
         }
+
+        List<float> grades; 
     }
 }

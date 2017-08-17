@@ -10,8 +10,7 @@ namespace ClassTest
     {
         static void Main(string[] args)
         {
-            Car Kuruma = new Car();
-            Kuruma.PressHorn();
         }
+            
     }
 }
