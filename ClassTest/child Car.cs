@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassTest
 {
-    class Program
+    class Car : Vechile
     {
-        static void Main(string[] args)
-        {
-            Car Kuruma = new Car();
-            Kuruma.PressHorn();
-        }
     }
 }
